@@ -1,0 +1,13 @@
+.monthPicker {
+    display: flex;
+}
+.totalOut {
+    flex-grow: 1;
+}
+.totalIn {
+    flex-grow: 1;
+}
+.selectedDate {
+    flex-grow: 0;
+    width: 280px;
+}
